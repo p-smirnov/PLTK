@@ -17,7 +17,9 @@ Imports:
   GenomicRanges,
   org.Hs.eg.db,
   scales,
-  vioplot
+  vioplot,
+  QDNASeq,
+  intervals
 Suggests: knitr,
     rmarkdown
 VignetteBuilder: knitr
